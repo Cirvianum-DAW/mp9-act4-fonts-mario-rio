@@ -1,7 +1,108 @@
-p.serif {
-  font-family: "Times New Roman", Times, serif;
+body {
+  margin-top: 30px;
+  margin-left: 30px;
 }
 
-p.sansserif {
-  font-family: Arial, Helvetica, sans-serif;
+h1 {
+  font-size: 6ch;
+  margin-bottom: 20px;
+}
+
+.frase {
+  margin-bottom: 20px;
+}
+
+#frase1 {
+  font-family: 'Brush Script MT', cursive;
+  font-weight: bold;
+  color: blue;
+  line-height: 1.6;
+}
+
+#frase2 {
+  font-family: 'Papyrus', fantasy;
+  font-style: italic;
+  color: green;
+}
+
+#frase3 {
+  font-family: 'Lucida Sans Typewriter', monospace;
+  text-decoration: underline;
+  color: red;
+  text-transform: lowercase;
+}
+
+#frase4 {
+  font-family: 'Hoefler Text', serif;
+  font-size: 24px;
+  color: purple;
+}
+
+#frase5 {
+  font-family: 'Courier New', monospace;
+  color: orange;
+  text-transform: capitalize;
+}
+
+#frase6 {
+  font-family: 'Comic Sans MS', cursive;
+  color: brown;
+  word-spacing: 2px;
+}
+
+#frase7 {
+  font-family: 'Andale Mono', monospace;
+  font-size: 4ch;
+  font-weight: bold;
+  color: teal;
+}
+
+#frase8 {
+  font-family: 'Didot LT STD', serif;
+  font-size: 35px;
+  font-style: italic;
+  color: navy;
+  letter-spacing: 2px;
+}
+
+#frase9 {
+  font-family: 'Futura', sans-serif;
+  text-decoration: underline;
+  font-weight: 100;
+  color: maroon;
+}
+
+#frase10 {
+  font-family: 'Big Caslon', serif;
+  font-size: 22px;
+  font-style: italic;
+  color: darkgreen;
+}
+ 
+#fraseWS1 {
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  color: darkblue;
+  word-spacing: 2px;
+}
+
+#fraseWS2 {
+  font-family: 'Arial', sans-serif;
+  color: darkred;
+}
+
+#fraseWS3 {
+  font-family: 'Verdana', sans-serif;
+  color: darkgreen;
+  text-transform: uppercase;
+}
+
+#fraseWS4 {
+  font-family: 'Tahoma', sans-serif;
+  color: darkorange;
+}
+
+#fraseWS5 {
+  font-family: 'Times New Roman', serif;
+  color: darkslategray;
 }
